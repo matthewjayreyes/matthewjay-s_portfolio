@@ -1,2 +1,4 @@
-# matthewjay-s_portfolio
-Analytics Portfolio
+# Matthew Jay's Portfolio
+
+# Project 1: Hardware Store Model
+
